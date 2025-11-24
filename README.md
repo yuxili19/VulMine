@@ -13,7 +13,7 @@ rameters. Experiments on five popular LLMs show that SSAG exposes
 harmful responses with a 95% success rate while reducing response time
 by 86%. These findings reveal crucial weaknesses in existing alignment
 methods, highlighting an urgent need for improved vulnerability detec-
-tion and robust safety alignment strategies.
+tion and robust safety alignment strategies. The Appendix of our paper are presented [here](Appendix.pdf)
 
 ## Installation
 
